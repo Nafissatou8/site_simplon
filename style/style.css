@@ -1,0 +1,190 @@
+.boxheader{
+    background-color: white;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+
+
+}
+.logox{
+    display: flex;
+}
+.bar{
+    position: relative;
+    top: 30px;
+}
+
+.nav-link{
+    justify-content: center;
+    font-size: 16px;
+}
+.navbar{
+    justify-content: space-around;
+    background-color: #ce0033;
+    padding-top: 10px;
+    font-size: 30px;
+    justify-content: center;
+    color: white;
+}
+.carousel-inner{
+    
+}
+.container-fluide{
+  
+    background-color: gray;
+
+}
+#bigbox{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(233, 233, 245);
+    height: 1000px;
+    width: 1200px;
+  text-align: center;
+  position: relative;
+  margin-left: 10em;
+  align-items: center;
+  margin-top:40px;
+  padding-top: 50px;
+  justify-content: space-between;
+  background-image:url(../images/logo.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+.sect1{
+    width: 1200px;
+    height: 400px;
+    border: 4px solid #ce0033;
+    justify-content: center;
+    padding-top: 30px;
+    margin-top: 10px;
+}
+.block{
+    height: 200px;
+    width: 1200px;
+    display: flex;
+    padding-top: 10%;
+   align-items: center;
+    background-color: aliceblue;
+    justify-content: space-between;
+    
+   
+}
+.block1{
+    width: 300px;
+    border: 2px solid black;
+    height: 100px;
+}
+.block2{
+    width: 300px;
+    border: 2px solid black;
+    height: 100px;
+}
+.block3{
+    width: 300px;
+    border: 2px solid black;
+    height: 100px;
+}
+.chiffre{
+    font-size: 40px;
+    color: #ce0033;
+    position: relative;
+    top: 20px;
+}
+.bloc{
+    position: relative;
+    bottom: 40px;
+}
+.micro{
+  border: 2px solid black;
+ width: 100px;
+    
+}
+.bf{
+    color: #ce0033;
+    font-size: 80px;
+}
+.text1{
+    font-size: 20px;
+    color: black;
+}
+.an{
+    color: #ce0033;
+
+}
+.ligne{
+    height: 1px;
+    width: 600px;
+    background-color: red;
+}
+.container-fluide{
+    background-color: gray;
+}
+.container2{
+    width: 80%;
+    background-color: honeydew;
+    display: flex;
+    flex-direction: column-reverse;
+    position: relative;
+    margin-left: 8em;
+    margin-top: 4%;
+}
+.boxligne{
+    display: flex;
+    flex-direction: row;
+}
+ .partenaire{
+     display: flex;
+     align-items: center;
+     flex-direction: column;
+ }
+ .nos{
+     color: #ce0033;
+     font-size: 40px;
+ }
+   
+ .parto{
+     display: flex;
+     justify-content: center;
+     max-height: 175px;
+ }
+.foot{
+    display: flex;
+    align-items: center;
+    background-color:  #ce0033;
+    justify-content: center;
+    margin-top: 5%;
+    padding-top: 20px;
+    flex-direction: column;
+
+}
+.element{
+    display: flex;
+    padding-top: 20px;
+    margin-top: 20px;
+    justify-items: space-between;
+}
+.trait{
+    width: 1px;
+    height: 50px;
+    background-color: black;
+}
+.plan{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+#main{
+    position: relative;
+    text-align: left;
+    max-width: 960px;
+    margin: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+}
+
+    
